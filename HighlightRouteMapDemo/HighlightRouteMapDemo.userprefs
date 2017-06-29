@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{51090132-73A8-493D-ACE5-12947D63DBFF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HighlightRouteMapDemo/HighlightRouteMapDemo.iOS/Renderer/CustomMapRenderer.cs">
+    <Files>
+      <File FileName="HighlightRouteMapDemo/HighlightRouteMapDemo.Android/Renderers/CustomMapRenderer.cs" Line="56" Column="16" />
+      <File FileName="HighlightRouteMapDemo/HighlightRouteMapDemo.iOS/Renderer/CustomMapRenderer.cs" Line="28" Column="1" />
+      <File FileName="HighlightRouteMapDemo/HighlightRouteMapDemo.iOS/AppDelegate.cs" Line="22" Column="4" />
+      <File FileName="HighlightRouteMapDemo/HighlightRouteMapDemo.Android/Properties/AndroidManifest.xml" Line="5" Column="116" />
+      <File FileName="HighlightRouteMapDemo/HighlightRouteMapDemo.Android/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="HighlightRouteMapDemo/HighlightRouteMapDemo/Views/RouteMapPage.xaml" Line="1" Column="1" />
+      <File FileName="HighlightRouteMapDemo/HighlightRouteMapDemo/App.xaml" Line="1" Column="1" />
+      <File FileName="HighlightRouteMapDemo/HighlightRouteMapDemo/App.xaml.cs" Line="16" Column="62" />
+      <File FileName="HighlightRouteMapDemo/HighlightRouteMapDemo.iOS/Info.plist" />
+      <File FileName="HighlightRouteMapDemo/HighlightRouteMapDemo/Views/RouteMapPage.xaml.cs" Line="21" Column="4" />
+      <File FileName="HighlightRouteMapDemo/HighlightRouteMapDemo/Views/ShapeSelectionPage.xaml.cs" Line="22" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.HighlightRouteMapDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.aff365ee23e750ddf54139b394f31818b89356a0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HighlightRouteMapDemo.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>
